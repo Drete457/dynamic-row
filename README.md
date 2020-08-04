@@ -37,3 +37,9 @@ This app will be useful not only during Covid-19 Emergency, but will be very use
 Mainly we learned how to be helpful in Coronovirus Emergency and how to join forces to face this world emergency.
 We come from very different experiences. Some of us working in Universities learned how to create an app, how to concretize their management ideas. Others coming from the computer world learned which are the need of the university world and scientists. Other coming from Law how to be helpful in the previous two fields. All together we learned how it is very important for people coming from different experiences to overcome even the most difficult of the health emergencies from the post-war period to today.
 
+## Description
+During the weekend, April 24, 25 and 26, Europe made a Europe hackathon against CronoVirus, I was part of a team that made an application demo.
+
+## Technologies
+Ionic, JavaScript, Html/CSS, Angular, AndroidStudio, Gradle
+
